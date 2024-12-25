@@ -1,0 +1,4 @@
+- Inheritance
+- Virtual functions
+- Pure virtual functions
+- Constructor of derived classes

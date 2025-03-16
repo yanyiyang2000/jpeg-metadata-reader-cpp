@@ -8,6 +8,7 @@ namespace lynx {
 class ExifSegment : public ApplicationSegment {
 public:
     ExifSegment();
+    
     ~ExifSegment();
 };
 

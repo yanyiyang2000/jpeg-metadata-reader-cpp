@@ -9,7 +9,7 @@ int main() {
 
     lynx::ApplicationSegment& app_seg_ref{jfif_seg};
     
-    app_seg_ref.populate();
+    app_seg_ref.Populate();
 
     std::cout << app_seg_ref.m_marker << std::endl;
     std::cout << app_seg_ref.m_length << std::endl;

@@ -13,7 +13,7 @@ public:
 
     ~JfifSegment();
 
-    virtual void populate();
+    virtual void Populate();
 };
 
 } // namespace lynx
